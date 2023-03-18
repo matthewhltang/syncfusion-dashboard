@@ -1,0 +1,10 @@
+Reactjs + Tailwindcss
+YouTube Tutorial: https://www.youtube.com/watch?v=jx5hdo50a2M
+Status up to: 3:52:29
+Last updated: 2022-03-19, 12:32am
+
+Tailwindcss docs: https://tailwindcss.com/docs
+Rugular vs Arrow Function guide: https://medium.com/geekculture/regular-vs-arrow-function-1f8140fbcece#:~:text=In%20regular%20function%2C%20arguments%20will,function%20parameters%20should%20be%20unique.
+
+//write rafce to get the default reactjs codes to a new page
+// press right ALT to multi editing
